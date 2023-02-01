@@ -1,4 +1,38 @@
-baseURL: http://example.org/
+baseURL: https://brbtechsolutions.com/
 languageCode: en-us
 title: BRB Tech Solutions
 theme: "PaperMod"
+# Sample config: https://github.com/adityatelange/hugo-PaperMod/wiki/Installation
+
+params:
+  title: BRB Tech Solutions
+  author: Brett Barker
+  defaultTheme: dark
+  disableThemeToggle: true
+
+  profileMode:
+    enabled: true
+    title: "BRB Tech Solutions"
+    subtitle: Solving Your Technology Problems
+    # buttons:
+    #   - name: About Us
+    #     url: "/about"
+    #   - name: Github
+    #     url: "https://github.com/brettrbarker"
+
+  socialIcons:
+    # - name: email
+    #   url: mailto:brett.barker@brbtechsolutions.com
+    - name: github
+      url: https://github.com/brettrbarker/
+  
+menu:
+  main:
+    - identifier: about
+      name: About Us
+      url: /about/
+      weight: 10
+    - identifier: contact
+      name: Contact Us
+      url: /contact/
+      weight: 20
