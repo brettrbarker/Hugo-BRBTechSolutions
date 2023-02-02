@@ -26,13 +26,13 @@ params:
     - name: github
       url: https://github.com/brettrbarker/
   
-menu:
-  main:
-    - identifier: about
-      name: About Us
-      url: /about/
-      weight: 10
-    - identifier: contact
-      name: Contact Us
-      url: /contact/
-      weight: 20
+# menu:
+#   main:
+#     - identifier: about
+#       name: About Us
+#       url: /about/
+#       weight: 10
+#     - identifier: contact
+#       name: Contact Us
+#       url: /contact/
+#       weight: 20
