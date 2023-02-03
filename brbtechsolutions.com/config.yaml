@@ -10,6 +10,7 @@ params:
   author: Brett Barker
   defaultTheme: dark
   disableThemeToggle: true
+  env: production
   
   custom_css: 
     - css/custom.css
@@ -18,11 +19,11 @@ params:
     enabled: true
     title: "BRB Tech Solutions"
     subtitle: Solving Your Technology Problems
-    # buttons:
-    #   - name: About Us
-    #     url: "/about"
-    #   - name: Github
-    #     url: "https://github.com/brettrbarker"
+    buttons:
+      - name: About Us
+        url: "/about"
+      - name: Contact Us
+        url: "/contact"
 
   socialIcons:
     # - name: email
