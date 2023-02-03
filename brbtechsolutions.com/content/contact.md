@@ -5,7 +5,7 @@ draft: false
 hidemeta: true
 showBreadCrumbs: false
 ---
-If you are interested in getting in touch with us to help with your technology needs, please fill out the form below. Someone will contact you soon!
+If you are interested in getting in touch with us to see how we can help solve your technology needs, please fill out the form below. Someone will contact you soon!
 
 {{< rawhtml >}}
   <!-- <div class="post-content">
