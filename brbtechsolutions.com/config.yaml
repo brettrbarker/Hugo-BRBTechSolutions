@@ -4,11 +4,15 @@ title: BRB Tech Solutions
 theme: "PaperMod"
 # Sample config: https://github.com/adityatelange/hugo-PaperMod/wiki/Installation
 
+
 params:
   title: BRB Tech Solutions
   author: Brett Barker
   defaultTheme: dark
   disableThemeToggle: true
+  
+  custom_css: 
+    - css/custom.css
 
   profileMode:
     enabled: true
@@ -26,13 +30,13 @@ params:
     - name: github
       url: https://github.com/brettrbarker/
   
-# menu:
-#   main:
-#     - identifier: about
-#       name: About Us
-#       url: /about/
-#       weight: 10
-#     - identifier: contact
-#       name: Contact Us
-#       url: /contact/
-#       weight: 20
+menu:
+  main:
+    - identifier: about
+      name: About Us
+      url: /about/
+      weight: 10
+    - identifier: contact
+      name: Contact Us
+      url: /contact/
+      weight: 20
