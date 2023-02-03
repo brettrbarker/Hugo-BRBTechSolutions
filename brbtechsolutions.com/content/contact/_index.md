@@ -8,30 +8,8 @@ showBreadCrumbs: false
 If you are interested in getting in touch with us to see how we can help solve your technology needs, please fill out the form below. Someone will contact you soon!
 
 {{< rawhtml >}}
-  <!-- <div class="post-content">
-<form action="https://getform.io/f/53b0eca4-40fd-41fb-b7a3-f570dbf209c5" 
-      method="POST"
-      accept-charset="UTF-8">
-    <label for="name">Your Name:</label>
-    <input type="text" id="name" name="name" class="code post-content">
-    <br />
-    <label for="email">Your Email:</label>
-    <input type="email" id="email" name="email">
-    <br />
-    <label for="message">Message:</label>
-    <textarea type="text" id="message" name="message" rows="4" cols="30"></textarea>
-    <br />
-    <input type="hidden" name="_gotcha" style="display:none !important">
-    <button type="submit">Send</button> -->
-    
-
-<!-- </div> -->
-
 
 <div class="container">
-	<!-- <div class="row">
-			<h4 style="text-align:center">If you are interested in getting in touch with us to help with your technology needs, please fill out the form below. Someone will contact you soon!</h4>
-	</div> -->
   <form action="https://getform.io/f/53b0eca4-40fd-41fb-b7a3-f570dbf209c5" method="POST" accept-charset="UTF-8">
 	<div class="row input-container">
 			<div class="col-xs-12">
